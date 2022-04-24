@@ -1,6 +1,6 @@
 #### 👋 Hey, this is us. SernHandler.
 
-<img src="https://github.com/sern-handler/.github/blob/main/SernHandlerJS.png" alt="Banner" width="700px">
+<img src="https://github.com/sern-handler/.github/blob/main/SernLogo.png" alt="Banner" width="125" align="right">
 
 A powerful discord.js wrapper to automate and streamline you bot development.
 
@@ -18,4 +18,9 @@ We are a open source organization, with the meaning **everyone** can contribute 
 **[SernHandlerTemplates](https://github.com/sern-handler/template)** - The code templates which our CLI injects them to your project <br>
 **[Roadmap](https://github.com/sern-handler/cli)** - Official roadmap for Sern (uncontributeable) <br>
 
-💭 "Experience is the name everyone gives to their mistakes."
+## 💖 Support
+You can support us with being a patron. Any support, no matter how small, how big, is welcomed.
+
+* Our patreon page is coming soon
+
+`💭 "Experience is the name everyone gives to their mistakes."`
