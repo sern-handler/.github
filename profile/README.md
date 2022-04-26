@@ -15,7 +15,7 @@ We are open source, and **anyone** can contribute. All kinds are welcomed.
 ## 📕 Repositories
 **[SernHandler](https://github.com/sern-handler/cli)** - Our main repository which, contains all handler code <br>
 **[SernHandlerCLI](https://github.com/sern-handler/cli)** - SernHandler's command line interface repository <br>
-**[SernHandlerTemplates](https://github.com/sern-handler/template)** - The code templates which our CLI injects into project <br>
+**[SernHandlerTemplates](https://github.com/sern-handler/templates)** - The code templates which our CLI injects into project <br>
 **[Roadmap](https://github.com/sern-handler/cli)** - Official roadmap for Sern (uncontributeable) <br>
 
 ## 💖 Support
