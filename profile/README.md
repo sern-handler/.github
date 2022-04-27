@@ -8,7 +8,7 @@ A powerful discord.js wrapper to automate and streamline you bot development.
 * Providing a powerful CLI
 
 ## 🧑‍🦰 Contribute
-We are open source, and **anyone** can contribute. All kinds are welcomed.
+We are open source, and **anyone** can contribute. All kinds of contrubutions are welcomed.
 
 - If you want to contribute, fork a repository, change, delete, or add, and then open a new pull request so we can review and accept your contribution. 
 
@@ -22,5 +22,10 @@ We are open source, and **anyone** can contribute. All kinds are welcomed.
 You can support us with being a patron. Any support, no matter how small, how big, is welcomed.
 
 * Our patreon page is coming soon
+
+## 🌍 Community
+You can join our Discord to stay up-to-date and get help.
+
+[Discord Server](https://discord.com/invite/mmyCTnYtbF)
 
 `💭 "Experience is the name everyone gives to their mistakes."`
