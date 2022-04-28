@@ -7,7 +7,7 @@ A powerful discord.js wrapper to automate and streamline you bot development.
 * Can easily installed via NPM or YARN.
 * Providing a powerful CLI
 
-## 🧑‍🦰 Contribute
+## ✨ Contribute
 We are open source, and **anyone** can contribute. All kinds of contrubutions are welcomed.
 
 - If you want to contribute, fork a repository, change, delete, or add, and then open a new pull request so we can review and accept your contribution. 
