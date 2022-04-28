@@ -1,6 +1,6 @@
 #### 👋 Hey, this is us. SernHandler.
 
-<img src="https://github.com/sern-handler/.github/blob/main/SernLogo.png" alt="Banner" width="125" align="right">
+<img src="https://github.com/sern-handler/.github/blob/main/SernHandler%20(Rounded).png" alt="Banner" width="130" align="right">
 
 A powerful discord.js wrapper to automate and streamline you bot development.
 
