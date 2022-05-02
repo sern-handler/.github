@@ -2,7 +2,7 @@
 
 <img src="https://github.com/sern-handler/.github/blob/main/SernHandler%20(Rounded).png" alt="Banner" width="130" align="right">
 
-A powerful discord.js wrapper to automate and streamline you bot development.
+A customizable, batteries-included, powerful [discord.js](https://discord.js.org) framework to automate and streamline bot development.
 
 * Can easily installed via NPM or YARN.
 * Providing a powerful CLI
