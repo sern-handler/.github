@@ -1,6 +1,6 @@
 # 👋 Hey, this is us. Sern!
 
-<img src="https://raw.githubusercontent.com/sern-handler/.github/main/SernHandler%20(Rounded).png" alt="Banner" width="150" align="right">
+<img src="https://raw.githubusercontent.com/sern-handler/.github/main/17B1B166-605F-4C79-9D64-EF544942CAB2.png" alt="Banner" width="150" align="right">
 
 A customizable, batteries-included, powerful [discord.js](https://discord.js.org) framework to automate and streamline bot development.
 
