@@ -1,4 +1,4 @@
-## 👋 Hey, this is us. sern!
+## 👋 Hey, this is us. sern.
 
 <img src="https://raw.githubusercontent.com/sern-handler/.github/main/17B1B166-605F-4C79-9D64-EF544942CAB2.png" alt="Banner" width="150" align="right">
 
