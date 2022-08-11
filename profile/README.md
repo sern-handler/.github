@@ -13,11 +13,11 @@ We are open source, and **anyone** can contribute. All kinds of contrubutions ar
 - If you want to contribute, fork a repository, change, delete, or add, and then open a new pull request so we can review and accept your contribution. 
 
 ## 📕 Repositories
-**[SernHandler](https://github.com/sern-handler/handler)** - Our main repository which, contains all handler code <br>
-**[Docs](https://github.com/sern-handler/docs)** - Repository of <a href="https://sern-handler.js.org">sern-handler.js.org</a><br>
-**[SernHandlerCLI](https://github.com/sern-handler/cli)** - SernHandler's command line interface repository <br>
-**[SernHandlerTemplates](https://github.com/sern-handler/templates)** - The code templates which our CLI injects into project <br>
-**[Roadmap](https://github.com/sern-handler/roadmap)** - Official roadmap for Sern (uncontributeable) <br>
+**[Handler](https://github.com/sern-handler/handler)** - Our main repository which, contains all handler code <br>
+**[Website](https://github.com/sern-handler/docs)** - Repository of <a href="https://sern-handler.js.org">sern-handler.js.org</a><br>
+**[sern CLI](https://github.com/sern-handler/cli)** - SernHandler's command line interface repository <br>
+**[Templates](https://github.com/sern-handler/templates)** - The code templates which our CLI injects into project <br>
+**[Roadmap](https://github.com/sern-handler/roadmap)** - Official roadmap for sern (uncontributeable) <br>
 
 ## 💖 Support
 You can support us with being a patron. Any support, no matter how small, how big, is welcomed.
