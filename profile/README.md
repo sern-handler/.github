@@ -16,7 +16,7 @@ We are open source, and **anyone** can contribute. All kinds of contrubutions ar
 **[Handler](https://github.com/sern-handler/handler)** - Contains all handler code <br>
 **[Website](https://github.com/sern-handler/website)** - <a href="https://sern.dev">sern.dev</a> website code<br>
 **[sern CLI](https://github.com/sern-handler/cli)** - sern's command line interface <br>
-**[Templates](https://github.com/sern-handler/templates)** - The code templates which our CLI injects into project (Archived in favor of [create-bot](https://github.com/sern-handler/create-bot))<br> 
+**[Templates](https://github.com/sern-handler/templates)** - The code templates which our CLI injects into project (archived in favor of [create-bot](https://github.com/sern-handler/create-bot))<br> 
 
 <!-- ## 💖 Support
 You can support us with being a patron. Any support, no matter how small, how big, is welcomed.
