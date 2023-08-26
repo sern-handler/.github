@@ -8,7 +8,7 @@ A customizable, batteries-included, powerful **[discord.js](https://discord.js.o
 * Well documented
 * Providing a powerful CLI
     * builtin build system
-    * plugin installation
+    * plugin management
 * Managed plugin ecosystem
 * Friendly community
 ## ✨ Contribute
