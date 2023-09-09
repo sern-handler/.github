@@ -4,6 +4,7 @@
 
 A customizable, batteries-included, powerful **[discord.js](https://discord.js.org)** framework to automate and streamline bot development.
 
+* works in bun and nodejs
 * Can easily installed via **[npm](https://npmjs.org), [yarn](https://yarnpkg.com)** or **[pnpm](https://pnpm.io)**.
 * Well documented
 * Providing a powerful CLI
